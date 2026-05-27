@@ -203,17 +203,9 @@ Your support helps us grow and improve the project.
 
 ---
 
-## 💚 Vision
+## 🎯 Vision
 
 **Smart Agribooth** aims to bridge the gap between **technology and agriculture** by building intelligent solutions that empower farmers and modernize farming practices.
-
----
-
-## 📌 Project Status
-
-🚧 **Currently under active development**
-
-More exciting features and smart integrations are coming soon.
 
 ---
 
